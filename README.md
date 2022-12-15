@@ -11,3 +11,8 @@ Note that I used the Jetbrains license that was given to me by my previous organ
 3. Github - CI/CD
 4. Youtube - Live Coding Video
 
+## Code Flow
+1. activity_Main - Basic UI Design, using three widgets, Text View, Edit Text and Buttons (Radio)
+2. main_Activity - Add functionality to move from one activity to other or one screen to other
+
+
